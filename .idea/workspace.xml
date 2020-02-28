@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c992c2eb-ede7-4c1c-8980-0597acb83f64" name="Default Changelist" comment="" />
+    <list default="true" id="c2ef0b05-b750-42e1-b7ea-0cf86df3522d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,24 +26,21 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1YQH9WlghPRUFryAbHyihZbHsGD" />
+  <component name="ProjectId" id="1YQXSRHChWbXk7YZaisyyVnSuVR" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ehyy-common/src/main/java/com/ehyy/util/Tree" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.28903344" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.ehyy.util.Excel" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\project\ehyy-spring\ehyy-application\src\test\java" />
+      <recent name="E:\project\ehyy-spring\ehyy-application\src\main\resources" />
+      <recent name="E:\project\ehyy-spring\ehyy-application\src\main\java" />
+      <recent name="E:\project\ehyy-spring\ehyy-application" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\软件\ehyy_springboot\ehyy-common\src\main\java\com\ehyy\util\Tree" />
+      <recent name="E:\project\ehyy-spring" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -63,12 +60,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c992c2eb-ede7-4c1c-8980-0597acb83f64" name="Default Changelist" comment="" />
-      <created>1582867746793</created>
+      <changelist id="c2ef0b05-b750-42e1-b7ea-0cf86df3522d" name="Default Changelist" comment="" />
+      <created>1582875790262</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582867746793</updated>
-      <workItem from="1582867755673" duration="2942000" />
+      <updated>1582875790262</updated>
+      <workItem from="1582875798379" duration="503000" />
     </task>
     <servers />
   </component>
