@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ehyy-application" />
         <module name="ehyy-common" />
+        <module name="ehyy-common (1)" />
         <module name="ehyycommon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ehyy-application" target="1.8" />
       <module name="ehyy-common" target="1.8" />
+      <module name="ehyy-common (1)" target="1.8" />
       <module name="ehyy-spring" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -21,6 +23,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ehyy-application" options="-parameters" />
       <module name="ehyy-common" options="-parameters" />
+      <module name="ehyy-common (1)" options="-parameters" />
+      <module name="ehyy-spring" options="" />
       <module name="ehyycommon" options="-parameters" />
     </option>
   </component>
